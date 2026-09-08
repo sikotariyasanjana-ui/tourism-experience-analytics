@@ -5,21 +5,24 @@ __pycache__/
 venv/
 env/
 
+# Streamlit secrets (never commit secrets)
+.streamlit/secrets.toml
+
 # Jupyter
 .ipynb_checkpoints/
 
-# Intermediate processed datasets
+# Intermediate processed datasets (not used in Streamlit app)
 DATA/tourism_feature_engineered.csv
 DATA/tourism_selected_features.csv
 DATA/tourism_scaled_data.csv
 DATA/tourism_pca_data.csv
 
-# Intermediate ML artifacts
+# Intermediate ML artifacts (not used in Streamlit app)
 DATA/tourism_pca_model.pkl
 DATA/tourism_pca_scaler.pkl
 DATA/tourism_rating_random_forest_model.pkl
 DATA/tourism_scaler.pkl
 
-# Old / duplicate large models
+# Old / duplicate large models (app uses best_tourism_visitmode_deployment.joblib 341KB)
 models/tourism_visitmode_tuned_model.pkl
-models/tourism_recommendation_model.pklDATA/tourism_rating_random_forest_model.pkl
+models/tourism_recommendation_model.pkl
