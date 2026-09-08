@@ -1,0 +1,32 @@
+AttractionId,AttractionCityId,AttractionTypeId,Attraction,AttractionAddress
+369.0,1.0,13.0,Kuta Beach - Bali,Kuta
+481.0,1.0,13.0,Nusa Dua Beach,"Semenanjung Nusa Dua, Nusa Dua 80517 Indonesia"
+640.0,1.0,63.0,Sacred Monkey Forest Sanctuary,"Jl. Monkey Forest, Ubud 80571 Indonesia"
+650.0,1.0,13.0,Sanur Beach,Sanur
+673.0,1.0,13.0,Seminyak Beach,Seminyak
+737.0,1.0,76.0,Tanah Lot Temple,"Kecamatan Kediri, Kabupaten Tabanan, Beraban 82121 Indonesia"
+748.0,1.0,72.0,Tegalalang Rice Terrace,"Jalan Raya Ceking, Tegalalang 80517 Indonesia"
+749.0,1.0,93.0,Tegenungan Waterfall,"Jl. Raya Tegenungan, Kemenuh, Ubud 80581 Indonesia"
+824.0,1.0,76.0,Uluwatu Temple,"Jl. Raya Uluwatu Southern part of Bali, Pecatu 80361 Indonesia"
+841.0,1.0,92.0,Waterbom Bali,"Jl. Kartika Plaza, Kuta 80361 Indonesia"
+877.0,2.0,13.0,Balekambang Beach,Malang District
+888.0,2.0,61.0,Bromo Tengger Semeru National Park,"Asrikaton - Pakis, Malang 65100 Indonesia"
+897.0,2.0,93.0,Coban Rondo Waterfall,Malang District
+913.0,2.0,13.0,Goa Cina Beach,"Dusun Trowotratih, Desa Sitiarjo Kecamatan Sumbermanjing Wetan, Malang 65111 Indonesia"
+920.0,2.0,64.0,Jodipan Colorful Village,"Gang 1 Jodipan, Kesatrian, Kec. Blimbing, Malang 65126 Indonesia"
+928.0,2.0,82.0,Khayangan Reflexology & Massage,Malang
+937.0,2.0,72.0,Malang City Square,"Jl. Merdeka Utara, Malang 65119 Indonesia"
+947.0,2.0,91.0,Mount Semeru Volcano,Malang Lumajang
+949.0,2.0,84.0,Museum Malang Tempo Doeloe,"Jl. Gajahmada no. 2, Malang 65119 Indonesia"
+975.0,2.0,63.0,Sempu Island,"Sumber Manjing Wetan, Malang 65111 Indonesia"
+1133.0,3.0,19.0,Jomblang Cave,"Jetis Wetan, Pacarejo, Semanu 55581 Indonesia"
+1137.0,3.0,61.0,Kalibiru National Park,Kulon Progo
+1166.0,3.0,34.0,Malioboro Road,Yogyakarta
+1171.0,3.0,91.0,Merapi Volcano,Yogyakarta
+1220.0,3.0,10.0,Ramayana Ballet at Prambanan,Sleman
+1225.0,3.0,2.0,Ratu Boko Temple,Yogyakarta
+1238.0,3.0,2.0,Sewu Temple,Yogyakarta
+1278.0,3.0,45.0,Ullen Sentalu Museum,"Jl. Boyong Taman Wisata, 55581 Indonesia"
+1280.0,3.0,72.0,Water Castle (Tamansari),"Jl. Taman, 55133 Indonesia"
+1297.0,3.0,44.0,Yogyakarta Palace,Yogyakarta
+,,,Unknown Attraction,Address not available

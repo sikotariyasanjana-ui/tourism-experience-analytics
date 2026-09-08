@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Intermediate processed datasets
+DATA/tourism_feature_engineered.csv
+DATA/tourism_selected_features.csv
+DATA/tourism_scaled_data.csv
+DATA/tourism_pca_data.csv
+
+# Intermediate ML artifacts
+DATA/tourism_pca_model.pkl
+DATA/tourism_pca_scaler.pkl
+DATA/tourism_rating_random_forest_model.pkl
+DATA/tourism_scaler.pkl
+
+# Old / duplicate large models
+models/tourism_visitmode_tuned_model.pkl
+models/tourism_recommendation_model.pklDATA/tourism_rating_random_forest_model.pkl
